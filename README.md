@@ -1,23 +1,1 @@
-# My LUFFY Repository
-
-Welcome to My LUFFY Repository! This is a Python project with the following structure:
-
-## Project Structure
-
-```
-src/
-  utils.py       - Utility functions with TODOs
-  models.py      - Data models with TODOs
-tests/
-  test_utils.py  - Test files with TODOs
-```
-
-### π“ Complete TODO List
-
-- [ ] `src/models.py:2` - Implement User model with proper fields and methods
-- [ ] `src/models.py:5` - Implement database migration logic
-- [ ] `src/utils.py:2` - Implement password hashing logic
-- [ ] `src/utils.py:7` - Add logging to all functions
-- [ ] `src/utils.py:12` - Remove dead code (unused_func)
-- [ ] `tests/test_utils.py:2` - Write tests for hash_password
-- [ ] `tests/test_utils.py:6` - Add integration tests
+Ϋ}΄αήύΫNη:γ®}ΫNvλτιώχλήψιώφοέΡ®{λλ~ιήΉΫNψιύ΄αήύΫNη:γ®}ΫNvλτιώχλήψιώφοέµΫNxλΞ½ο}΄λήχΫNµΫNtοήψλΞιν΄οNφιώλ·ο΄οΎ½οΌΫNψλΞΉΫNΊιώιΞοΎ½ιξ»ΫNχοφο·οωοnΉέ­Ρ­·Ϋ}΄ηNφιώλ·ο΄η~ψοnωλ~ψοφλΡ®΄λN΄Ρ®χοn·ΩύΫM΄οψλήο}οNύΫM΄ΫM΄ΫM΄ΫMΫNyο½ιΞ½ούΫNΊολ~ψλήιξχΫNϋλήψλΝ΄ηγο}ΫM΄ιήλΉιΞχΩξτοέ΄ΫM΄ΫM΄ΫMΫN8λ^ψλ]΄ιήλΉιΞχΫNϋλήψλΝ΄ηγο}οΉο~ψο}Ρ­΄ΫNψλχο_οψλήο}οNύΫM΄Ωέ΄ηΉο~ψΫNΊλήλχΫNϋλήψλΝ΄ηγο}λN΄λMΡ­·Ϋ}·ΫGτυÿwυέ΄γ~ιήτιΞΉοΉΫNxαώ8αύ΄αΞ½ο~ψΡ­Ωέ΄ε½΄εέ΄λNχοn·ΩώιώΈλο}οNύέ­φλM΄Ωέ΄γήοNλλο΄ηχλφΫNιώΈλΫNϋλήψλΝ΄οNφιώτλφΫNΊλήΉιΞΈο}΄λ^λ΄ιήΉοΌιώΈο}Ωέ΄ε½΄εέ΄λNχοn·ΩώιώΈλο}οNύέ­ωλM΄Ωέ΄γήοNλλο΄λµοµλnµο~ΉΫNλή»οnµο½ιώΫNιώ»λή·Ρ­ΫN[ΫN]ΫN΄ο~φλ}οψλήο}οNύέ­φλM΄Ωέ΄γήοNλλο΄οNµο~χοΎοnΈΫNΌλ^χλΞ½ιξ»ΫNιώ»λή·Ρ­ΫN[ΫN]ΫN΄ο~φλ}οψλήο}οNύέ­ϋλM΄Ωέ΄γ^Έλ΄ιΞλΎ»λήλ½΄οΫNµιΞΫNΊολ~ψλήιξχΡ­ΫN[ΫN]ΫN΄ο~φλ}οψλήο}οNύέ­υίn΄ΫMΫNvλιώϊλ΄λΉλ^ΈΫN·ιώΈλ΄ΫΞωιξωο~Ήλ_λ®ωιξ·ΫέΩέ΄ε½΄εέ΄λNψλχοχΩώψλχο_οψλήο}οNύέ­φλM΄Ωέ΄ηΎφλήψλ΄οΉο~ψο}΄λ®οm΄λΞµο~Όεώτλ^χο~ϋιώφλΩέ΄ε½΄εέ΄λNψλχοχΩώψλχο_οψλήο}οNύέ­ϊλM΄Ωέ΄γ^Έλ΄λήοΉλΎφλ^ψλήιν΄οΉο~ψο}
